@@ -6,8 +6,6 @@
   </div>
 </div>
 <br>
-<br>
-<br>
 <h3>Features</h3>
 
 - [x] Allowed images formats `png` `jpg` `jpeg` `ico` `bmp`
